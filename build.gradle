@@ -1,0 +1,19 @@
+group 'Java-Hibernate'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+    compile group: 'log4j', name:'log4j', version:'1.2.17'
+    compile 'org.hibernate:hibernate:3.2.7.ga'
+    compile 'org.hibernate:hibernate-annotations:3.3.1.GA'
+    runtime 'org.postgresql:postgresql:9.4.1208.jre7'
+}
