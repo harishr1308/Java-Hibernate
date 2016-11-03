@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaHibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaHibernate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaHibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaHibernate_main.iml" group="JavaHibernate" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaHibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaHibernate_test.iml" group="JavaHibernate" />
     </modules>
   </component>
 </project>
